@@ -1,5 +1,8 @@
 # Fractals
 different programs that plot fractals
 
-# Mandelbrot.py
-so far the only one I made.
+# Mandelbrot
+2 different ways:
+    scatterplot
+    colormap
+colormap is much more efficient, looks better too (imo)
